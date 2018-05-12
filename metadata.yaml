@@ -1,0 +1,33 @@
+_repo: Rulers-of-India--Lord-Clive_32125
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Malleson, G. B. (George Bruce)
+    alias: Malleson, George Bruce
+    birthdate: 1825
+    deathdate: 1898
+    gutenberg_agent_id: '35335'
+    url: http://www.gutenberg.org/2009/agents/35335
+    wikipedia: http://en.wikipedia.org/wiki/George_Bruce_Malleson
+description: ''
+gutenberg_issued: '2010-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32125'
+  lccn: '48041561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Biography'
+- !lcsh 'Clive, Robert Clive, Baron, 1725-1774'
+- !lcc 'DS'
+- !lcsh 'Generals -- Great Britain -- Biography'
+- !lcsh 'Governors -- India -- Biography'
+- !lcsh 'Generals -- India -- Biography'
+title: 'Rulers of India: Lord Clive'
+url: http://www.gutenberg.org/ebooks/32125
